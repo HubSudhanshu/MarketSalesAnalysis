@@ -25,7 +25,8 @@ if f1 is not None:
     st.write(df)
 else:
    # os.chdir(r"C:\Users\admin\Documents\data\superstore_usa")
-    df = pd.read_excel("Superstore_USA.xlsx")
+    #df = pd.read_excel("Superstore_USA.xlsx")
+    print("ok")
 
 col1, col2 = st.columns((2))
 df["Order Date"] = pd.to_datetime(df["Order Date"])
