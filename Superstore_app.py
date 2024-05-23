@@ -18,7 +18,7 @@ if f1 is not None:
 else:
     directory_path = r"C:\Users\admin\Documents\data\superstore_usa\Superstore_USA.xlsx"
     #file_path = os.path.join(directory_path, "Superstore_USA.xlsx")
-    df = pd.read_excel(file_path)
+    df = pd.read_excel(directory_path)
     st.write(df)
     #os.chdir(r"C:\Users\admin\Documents\data\superstore_usa")
     #df = pd.read_excel("Superstore_USA.xlsx")
