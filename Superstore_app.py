@@ -1,4 +1,4 @@
-import streamlit as st
+rimport streamlit as st
 import pandas as pd 
 import plotly.express as px
 import os
@@ -12,7 +12,7 @@ st.markdown('<style>div.block-container{padding-top:1rem;}</style>',unsafe_allow
 
 f1 = st.file_uploader(':file_folder: upload a file',type=(["csv","xlsx","xls","txt"]))
 
-file_path = "C:\Users\admin\Documents\data\superstore_usa\Superstore_USA.xlsx"
+file_path = (r"C:\Users\admin\Documents\data\superstore_usa\Superstore_USA.xlsx")
 
 if os.access(file_path, os.R_OK):
     print("File is readable")
