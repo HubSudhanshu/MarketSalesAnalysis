@@ -29,7 +29,7 @@ else:
     print("ok")
 
 col1, col2 = st.columns((2))
-df["Order Date"] = pd.to_datetime(df["Order Date"])
+#df["Order Date"] = pd.to_datetime(df["Order Date"])
 
 # Getting the min and max date 
 
