@@ -10,15 +10,14 @@ st.set_page_config(page_title="superstore USA!!!!", page_icon=":bar_chart:",layo
 st.title(":bar_chart: SUPERSTORE EDA")
 st.markdown('<style>div.block-container{padding-top:1rem;}</style>',unsafe_allow_html=True)
 
-f1 = st.file_uploader(':file_folder: upload a file',type=(["csv","xlsx","xls","txt"]))
-
 file_path = (r"C:\Users\admin\Documents\data\superstore_usa\Superstore_USA.xlsx")
 
 if os.access(file_path, os.R_OK):
     print("File is readable")
 else:
     print("File is not readable")
-
+    
+f1 = st.file_uploader(':file_folder: upload a file',type=(["csv","xlsx","xls","txt"]))
 if f1 is not None:
     filename = f1.name
     df = pd.read_excel(filename)
