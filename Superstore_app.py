@@ -18,7 +18,7 @@ if f1 is not None:
     st.write(df)
 else:
     print("ok")
-    os.chdir(r"C:\Users\admin\Documents\data\superstore_usa")
+    #os.chdir(r"C:\Users\admin\Documents\data\superstore_usa")
     df = pd.read_excel("Superstore_USA.xlsx")
 
 col1, col2 = st.columns((2))
