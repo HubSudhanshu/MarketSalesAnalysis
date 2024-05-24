@@ -30,6 +30,13 @@ Now you can run the project by using the following command:
 
 This will launch the streamlit app in your default web browser. You can then use the sidebar on the left side of the page to select the fillters that u want see for your visualizations.
 
+## Data Pre Processing / Cleaning 
+
+Data preprocessing and cleaning were meticulously executed within the dynamic confines of Jupyter Notebook. Dive deeper into the intricacies of this pivotal phase by exploring further at https://github.com/HubSudhanshu/MarketSalesAnalysis/blob/main/MarketSalesAnalysis.ipynb . Unravel the complexities, refine the nuances, and witness the transformation of raw data into actionable insights. After extracting insights using Jupyter Notebook, the refined data illuminates pathways to informed decision-making and innovative solutions.
+
+
+
+
 ## Visualization & Screenshots
 
 
@@ -42,9 +49,6 @@ This will launch the streamlit app in your default web browser. You can then use
 
 ![Capture3](https://github.com/HubSudhanshu/MarketSalesAnalysis/assets/140691182/d040d6d1-ee23-4a5b-a1a2-2a7e120c7f9a)
 
-## Data Pre Processing / Cleaning 
-
-Data preprocessing and cleaning were meticulously executed within the dynamic confines of Jupyter Notebook. Dive deeper into the intricacies of this pivotal phase by exploring further at . Unravel the complexities, refine the nuances, and witness the transformation of raw data into actionable insights. After extracting insights using Jupyter Notebook, the refined data illuminates pathways to informed decision-making and innovative solutions.
 
 ## Conclusion
 
