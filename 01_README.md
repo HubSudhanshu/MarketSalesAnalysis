@@ -32,7 +32,9 @@ This will launch the streamlit app in your default web browser. You can then use
 
 ## Data Pre Processing / Cleaning 
 
-Data preprocessing and cleaning were meticulously executed within the dynamic confines of Jupyter Notebook. Dive deeper into the intricacies of this pivotal phase by exploring further at https://github.com/HubSudhanshu/MarketSalesAnalysis/blob/main/MarketSalesAnalysis.ipynb . Unravel the complexities, refine the nuances, and witness the transformation of raw data into actionable insights. After extracting insights using Jupyter Notebook, the refined data illuminates pathways to informed decision-making and innovative solutions.
+Data preprocessing and cleaning were meticulously executed within the dynamic confines of Jupyter Notebook. Dive deeper into the intricacies of this pivotal phase by exploring further at https://github.com/HubSudhanshu/MarketSalesAnalysis/blob/main/04_MarketSalesAnalysis.ipynb
+
+ . Unravel the complexities, refine the nuances, and witness the transformation of raw data into actionable insights. After extracting insights using Jupyter Notebook, the refined data illuminates pathways to informed decision-making and innovative solutions.
 
 
 
