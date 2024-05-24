@@ -113,7 +113,7 @@ with col1:
 with col1:
     category_df = newdf.groupby(by = ["Product Category"], as_index = False)["Sales"].sum()
     with st.expander("Category_ViewData"):
-        st.write(category_df.style.background_gradient(cmap="Blues"))
+        st.dataframe(category_df.style.background_gradient(cmap="Blues"))
         csv = category_df.to_csv(index = False).encode('utf-8')
         st.download_button("Download Data", data = csv, file_name = "Category.csv", mime = "text/csv",
                             help = 'Click here to download the data as a CSV file')
