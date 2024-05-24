@@ -24,7 +24,8 @@ matplotlib==3.8.4
 # Getting Started
 First, clone this repository to your local machine:
 
-git clone https://github.com/HubSudhanshu/MarketSalesAnalysis.git
+[<kbd>Your Link Text</kbd>](git clone https://github.com/HubSudhanshu/MarketSalesAnalysis.git)
+
 
 Next, navigate to the project directory and install the required libraries:
 
