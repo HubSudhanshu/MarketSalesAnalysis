@@ -26,6 +26,6 @@ Next, navigate to the project directory and install the required libraries:
 
 Now you can run the project by using the following command:
 
-  streamlit run Superstore.py
+    streamlit run Superstore.py
 
 This will launch the streamlit app in your default web browser. You can then use the sidebar on the left side of the page to select the fillters that u want see for your visualizations.
