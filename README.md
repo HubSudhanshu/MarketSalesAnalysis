@@ -29,3 +29,16 @@ Now you can run the project by using the following command:
     streamlit run Superstore.py
 
 This will launch the streamlit app in your default web browser. You can then use the sidebar on the left side of the page to select the fillters that u want see for your visualizations.
+
+## Visualization & Screenshots
+![Capture1](https://github.com/HubSudhanshu/MarketSalesAnalysis/assets/140691182/13755640-16e4-4694-8548-ed48afc05052)
+
+![Capture4](https://github.com/HubSudhanshu/MarketSalesAnalysis/assets/140691182/88a9fa60-ffe0-4a3f-91f7-3481145f1d7b)
+
+![Capture2](https://github.com/HubSudhanshu/MarketSalesAnalysis/assets/140691182/99e862b1-9529-417f-99e6-c95b0ec72d2c)
+
+
+![Capture3](https://github.com/HubSudhanshu/MarketSalesAnalysis/assets/140691182/d040d6d1-ee23-4a5b-a1a2-2a7e120c7f9a)
+
+
+
