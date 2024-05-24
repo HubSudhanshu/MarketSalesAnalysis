@@ -5,7 +5,7 @@ LIVE APP LINK: https://bit.ly/MarketSalesAnalysis
 
 DATASET: https://www.kaggle.com/datasets/anuragupadhyay6212/superstore-usadataset
 
-#Requirements
+# Requirements
 
 To run this project, you will need the following:
 
@@ -21,7 +21,7 @@ openpyxl== 3.1.2
 
 matplotlib==3.8.4
 
-#Getting Started
+# Getting Started
 First, clone this repository to your local machine:
 
 git clone https://github.com/HubSudhanshu/MarketSalesAnalysis.git
