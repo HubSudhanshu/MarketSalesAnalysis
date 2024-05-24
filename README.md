@@ -44,7 +44,7 @@ This will launch the streamlit app in your default web browser. You can then use
 
 ## Data Pre Processing / Cleaning 
 
-Data preproceesing and cleaning was done using jupyter notebook for more u can refer over here 
+Data preprocessing and cleaning were meticulously executed within the dynamic confines of Jupyter Notebook. Dive deeper into the intricacies of this pivotal phase by exploring further at . Unravel the complexities, refine the nuances, and witness the transformation of raw data into actionable insights. After extracting insights using Jupyter Notebook, the refined data illuminates pathways to informed decision-making and innovative solutions.
 
 ## Conclusion
 
