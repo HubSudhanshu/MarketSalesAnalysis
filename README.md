@@ -5,33 +5,24 @@ LIVE APP LINK: https://bit.ly/MarketSalesAnalysis
 
 DATASET: https://www.kaggle.com/datasets/anuragupadhyay6212/superstore-usadataset
 
-# Requirements
+## Requirements
 
 To run this project, you will need the following:
-
-Markdown==3.6
-
-pandas==2.2.2
-
-streamlit==1.34.0
-
-plotly==5.22.0
-
-openpyxl== 3.1.2
-
-matplotlib==3.8.4
+- Python 3.6 or higher
+- The pandas library
+- The streamlit library
+- The Plotly Library
+- The Matplotlib Library
 
 # Getting Started
+
 First, clone this repository to your local machine:
 
-[<kbd>git clone https://github.com/HubSudhanshu/MarketSalesAnalysis.git</kbd>]
-
-
-Next, navigate to the project directory and install the required libraries:
+    git clone https://github.com/HubSudhanshu/MarketSalesAnalysis.git
 
 Next, navigate to the project directory and install the required libraries:
 
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
 Now you can run the project by using the following command:
 
