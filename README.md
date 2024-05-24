@@ -42,6 +42,9 @@ This will launch the streamlit app in your default web browser. You can then use
 
 ![Capture3](https://github.com/HubSudhanshu/MarketSalesAnalysis/assets/140691182/d040d6d1-ee23-4a5b-a1a2-2a7e120c7f9a)
 
+## Data Pre Processing / Cleaning 
+
+Data preproceesing and cleaning was done using jupyter notebook for more u can refer over here 
 
 ## Conclusion
 
