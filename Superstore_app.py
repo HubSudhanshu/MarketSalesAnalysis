@@ -2,10 +2,10 @@ import streamlit as st
 import pandas as pd 
 import plotly.express as px
 import os
-import warnings
+#import warnings
 #import openpyxl as op
 import plotly.graph_objects as go
-warnings.filterwarnings('ignore')
+#warnings.filterwarnings('ignore')
 
 st.set_page_config(page_title="superstore USA!!!!", page_icon=":bar_chart:",layout="wide")
 st.title(":bar_chart: SUPERSTORE EDA")
