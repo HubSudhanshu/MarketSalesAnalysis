@@ -1,7 +1,7 @@
 # Market Sales Analysis
 Welcome to the Sales Data Visualization project! This Streamlit application is designed to help you gain insights from your sales data through interactive and dynamic visualizations. Whether you're a business owner, a data analyst, or just someone interested in understanding sales trends, this tool provides a user-friendly platform to analyze and visualize sales metrics effortlessly.
 
-LIVE APP LINK: https://bit.ly/MarketSalesAnalysis
+LIVE APP LINK: https://marketsalesanalysis-o3adnsyvakyrj5aenpziyo.streamlit.app/
 
 DATASET: https://www.kaggle.com/datasets/anuragupadhyay6212/superstore-usadataset
 
