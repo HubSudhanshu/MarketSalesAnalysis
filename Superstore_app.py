@@ -6,7 +6,7 @@ import warnings
 import plotly.graph_objects as go
 warnings.filterwarnings('ignore')
 
-st.set_page_config(page_title="superstore USA!!!!", page_icon=":bar_chart:",layout="wide")
+st.set_page_config(page_title="superstore USA", page_icon=":bar_chart:",layout="wide")
 st.title(":bar_chart: SUPERSTORE EDA")
 st.markdown('<style>div.block-container{padding-top:1rem;}</style>',unsafe_allow_html=True)
 
