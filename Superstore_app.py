@@ -92,9 +92,10 @@ with col3:
 # Creating Pie Chart For State Wise Sales
 with col4:
     st.subheader("State wise Sales")
-    fig = px.pie(newdf, values = "Sales", names = "State or Province", hole = 0.5)
-    fig.update_traces(text = newdf["State or Province"], textposition = "outside")
-    st.plotly_chart(fig,use_container_width=True)
+    top5_states = newdf.groupby("State or Province")["Sales"].sum().nlargest(5).reset_index()
+    fig = px.pie(top5_states, values="Sales", names="State or Province", hole=0.5)
+    fig.update_traces(text=top5_states["State or Province"], textposition="outside")
+    st.plotly_chart(fig, use_container_width=True)
 
 
 # Creating Bar Chart For Catrgory Wise Sales
